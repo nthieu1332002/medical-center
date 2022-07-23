@@ -1,0 +1,70 @@
+﻿@using ChildrenCare.DTOs.BlogDTOs
+@using ChildrenCare.Entities
+@*
+*@
+@{
+    Layout = "_Layout";
+}
+<div class="container">
+    <div class="action-sider mb-3 d-flex justify-content-end">
+        <!-- Search -->
+        <div class="searchbox w-25 me-4">
+            @*<form asp-action="BlogSearch" method="get">*@
+                <div class="input-group">
+                    <input type="text" name="SearchString" value="@ViewData["CurrentFilter"]" class="form-control" placeholder="Search...">
+                    <div class="input-group-append">
+                        <div class="btn bg-primary text-white"><i class="fa-solid fa-magnifying-glass"></i></div>
+                    </div>
+                </div>
+            @*</form>*@
+        </div>
+        <!-- Category -->
+        <div class="categorybox">
+            <button class="btn btn-primary dropdown-toggle" type="button" id="dropdownCategory"
+                    data-bs-toggle="dropdown">
+                Category
+            </button>
+            <ul class="dropdown-menu" aria-labelledby="dropdownCategory">
+                @foreach (var category in (List<Category>)ViewBag.Categories)
+                {
+                    <li><a class="dropdown-item" href="#">@category.Name</a></li>
+                }
+            </ul>
+        </div>
+    </div>
+    <!-- Blog list -->
+    <div class="row blog-list-wrapper">
+        @foreach (var blog in (List<GetBlogListResponseDTO>)ViewBag.Blogs.Items)
+        {
+            <div class="col-12 blog-list-item d-flex mb-2">
+                <div class="blog-item-img me-2">
+                    @if (String.IsNullOrWhiteSpace(blog.ThumbnailUrl))
+                    {
+                        <p>Blog Doesn't have a thumbnail</p>
+                    }
+                    else
+                    {
+                        <img src="@blog.ThumbnailUrl" alt=".." style="height: 300px; width: 300px">
+                    }
+
+                </div>
+                <div class="blog-item-title">
+                    <h4>@blog.Tittle</h4>
+                    <p>@blog.BriefInfo</p>
+                    <a asp-controller="Blog" asp-action="BlogDetail" asp-route-id="@blog.Id">Read now</a>
+                </div>
+            </div>
+        }
+    </div>
+
+
+    <nav class="d-flex justify-content-center">
+        <ul class="pagination pagination-md">
+            <li class="page-item active" aria-current="page">
+                <span class="page-link">1</span>
+            </li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+        </ul>
+    </nav>
+</div>

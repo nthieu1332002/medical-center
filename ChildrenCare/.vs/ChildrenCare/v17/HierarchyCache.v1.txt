@@ -1,0 +1,595 @@
+﻿++Solution 'ChildrenCare' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:ChildrenCare.sln
+++ChildrenCare
+i:{00000000-0000-0000-0000-000000000000}:ChildrenCare
+++Connected Services 
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1278
+++Dependencies
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1277
+++Properties
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\properties\
+++wwwroot
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\
+++Areas
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\
+++Controllers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\
+++AdminController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\admincontroller.cs
+++AppParameterController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\appparametercontroller.cs
+++AppRoleController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\approlecontroller.cs
+++AppUserController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\appusercontroller.cs
+++BlogController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\blogcontroller.cs
+++CategoryController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\categorycontroller.cs
+++CustomerController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\customercontroller.cs
+++FeedbackController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\feedbackcontroller.cs
+++HomeController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\homecontroller.cs
+++PrescriptionController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\prescriptioncontroller.cs
+++ReservationController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\reservationcontroller.cs
+++ServiceController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\servicecontroller.cs
+++SliderController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\slidercontroller.cs
+++StaffSpecializationController.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\controllers\staffspecializationcontroller.cs
+++Data
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\data\
+++DTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\
+++AppUserDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\appuserdtos\
+++LoginRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\appuserdtos\loginrequestdto.cs
+++RegisterRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\appuserdtos\registerrequestdto.cs
+++SimpleUserNameDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\appuserdtos\simpleusernamedto.cs
+++BlogDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\
+++FeedbackDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\feedbackdtos\
+++ReservationDetailDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdetaildtos\
+++ReservationDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\
+++ServiceDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\servicedtos\
+++SliderDTOs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\sliderdtos\
+++Entities
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\
+++AppParameter.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\appparameter.cs
+++AppRole.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\approle.cs
+++AppUser.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\appuser.cs
+++AppUserRole.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\appuserrole.cs
+++Blog.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\blog.cs
+++Category.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\category.cs
+++FeedBacks.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\feedbacks.cs
+++Prescription.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\prescription.cs
+++Reservation.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\reservation.cs
+++ReservationDetail.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\reservationdetail.cs
+++Service.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\service.cs
+++Slider.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\slider.cs
+++StaffSpecialization.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\entities\staffspecialization.cs
+++Migrations
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\migrations\
+++Models
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\models\
+++Pages
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\pages\
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\
+++Repositories
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\
+++Interfaces
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\
+++IAppRoleRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iapprolerepository.cs
+++IAppUserRoleRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iappuserrolerepository.cs
+++IBlogRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iblogrepository.cs
+++ICategoryRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\icategoryrepository.cs
+++IFeedbackRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\ifeedbackrepository.cs
+++IParameterRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iparameterrepository.cs
+++IPrescriptionRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iprescriptionrepository.cs
+++IRepositoryBase.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\irepositorybase.cs
+++IRepositoryWrapper.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\irepositorywrapper.cs
+++IReservationRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\ireservationrepository.cs
+++IReservationServiceRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\ireservationservicerepository.cs
+++IServiceRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iservicerepository.cs
+++ISliderRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\isliderrepository.cs
+++IStaffSpecializationRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\istaffspecializationrepository.cs
+++IUserRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\interfaces\iuserrepository.cs
+++AppRoleRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\approlerepository.cs
+++AppUserRoleRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\appuserrolerepository.cs
+++BlogRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\blogrepository.cs
+++CategoryRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\categoryrepository.cs
+++FeedbackRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\feedbackrepository.cs
+++ParameterRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\parameterrepository.cs
+++PrescriptionRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\prescriptionrepository.cs
+++RepositoryBase.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\repositorybase.cs
+++RepositoryWrapper.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\repositorywrapper.cs
+++ReservationRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\reservationrepository.cs
+++ReservationServiceRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\reservationservicerepository.cs
+++ServiceRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\servicerepository.cs
+++SliderRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\sliderrepository.cs
+++StaffSpecializationRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\staffspecializationrepository.cs
+++UserRepository.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\repositories\userrepository.cs
+++Resources
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\resources\
+++Services
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\
+++Interface
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\
+++AppParameterService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\appparameterservice.cs
+++AppRoleService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\approleservice.cs
+++AppUserService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\appuserservice.cs
+++BlogService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\blogservice.cs
+++CategoryService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\categoryservice.cs
+++FeedBackService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\feedbackservice.cs
+++PrescriptionService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\prescriptionservice.cs
+++ReservationService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\reservationservice.cs
+++ReservationServiceService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\reservationserviceservice.cs
+++ServiceService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\serviceservice.cs
+++SliderService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\sliderservice.cs
+++StaffSpecializationService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\staffspecializationservice.cs
+++Utilities
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\
+++ImageUpload
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\imageupload\
+++CloudinarySettings.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\imageupload\cloudinarysettings.cs
+++IPhotoService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\imageupload\iphotoservice.cs
+++PhotoService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\imageupload\photoservice.cs
+++UploadCurrentUserAvatarDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\imageupload\uploadcurrentuseravatardto.cs
+++UploadImageDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\imageupload\uploadimagedto.cs
+++Pagination
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\pagination\
+++CustomResponse.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\customresponse.cs
+++GlobalVariables.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\globalvariables.cs
+++MailUtil.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\mailutil.cs
+++ObjectTrimmer.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\objecttrimmer.cs
+++Views
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\
+++Admin
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\admin\
+++AppUser
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\appuser\
+++ForgetPassword.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\appuser\forgetpassword.cshtml
+++Login.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\appuser\login.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\login.cshtml
+++Register.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\appuser\register.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\register.cshtml
+++Blog
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\
+++Customer
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\customer\
+++AddCustomer.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\customer\addcustomer.cshtml
+++CustomerList.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\customer\customerlist.cshtml
+++DetailsCustomer.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\customer\detailscustomer.cshtml
+++EditCustomer.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\customer\editcustomer.cshtml
+++Feedback
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\feedback\
+++Home
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\home\
+++Prescription
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\prescription\
+++CreatePrescriptions.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\prescription\createprescriptions.cshtml
+++DeletePrescriptions.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\prescription\deleteprescriptions.cshtml
+++DetailsPescriptions.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\prescription\detailspescriptions.cshtml
+++PrescriptionsList.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\prescription\prescriptionslist.cshtml
+++UpdatePrescriptions.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\prescription\updateprescriptions.cshtml
+++Reservation
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\reservation\
+++MyReservation.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\reservation\myreservation.cshtml
+++ReservationComplete.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\reservation\reservationcomplete.cshtml
+++ReservationContact.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\reservation\reservationcontact.cshtml
+++ReservationDetail.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\reservation\reservationdetail.cshtml
+++ReservationManagement.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\reservation\reservationmanagement.cshtml
+++Service
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\
+++CreateService.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\createservice.cshtml
+++DeleteService.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\deleteservice.cshtml
+++ServiceDetail.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\servicedetail.cshtml
+++ServiceDetailCus.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\servicedetailcus.cshtml
+++ServiceList.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\servicelist.cshtml
+++ServiceManagement.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\servicemanagement.cshtml
+++UpdateService.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\service\updateservice.cshtml
+++Shared
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\
+++_Layout.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_layout.cshtml
+++_LayoutAdmin.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_layoutadmin.cshtml
+++_LayoutManager.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_layoutmanager.cshtml
+++_LayoutRegister.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_layoutregister.cshtml
+++_LayoutStaff.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_layoutstaff.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_validationscriptspartial.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\error.cshtml
+++Slider
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\slider\
+++StaffSpecialization
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\staffspecialization\
+++_ViewImports.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\_viewimports.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\_viewimports.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\_viewstart.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\_viewstart.cshtml
+++appsettings.json
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\appsettings.json
+++Program.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\program.cs
+++SQL Server Express LocalDB (Local) (ConnectionStrings:ChildrenCareDBContextConnection)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1309
+++Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:analyzers
+++Frameworks
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:frameworks
+++Packages
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:packages
+++launchSettings.json
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\properties\launchsettings.json
+++serviceDependencies.json
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\properties\servicedependencies.json
+++css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\css\
+++images
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\
+++js
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\js\
+++favicon.ico
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\favicon.ico
+++Identity
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\
+++ChildrenCareDBContext.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\data\childrencaredbcontext.cs
+++AdvancedGetBlogsRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\advancedgetblogsrequestdto.cs
+++AdvancedGetBlogsResquestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\advancedgetblogsresquestdto.cs
+++BlogDetailDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\blogdetaildto.cs
+++CreateBlogRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\createblogrequestdto.cs
+++CreateBlogResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\createblogresponsedto.cs
+++GetBlogListRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\getbloglistrequestdto.cs
+++GetBlogListResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\getbloglistresponsedto.cs
+++GetBlogManagementListRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\getblogmanagementlistrequestdto.cs
+++GetBlogManagementListResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\getblogmanagementlistresponsedto.cs
+++GetHomePageBlogListDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\gethomepagebloglistdto.cs
+++UpdateBlogRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\blogdtos\updateblogrequestdto.cs
+++GetFeedbackDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\feedbackdtos\getfeedbackdto.cs
+++ChangeReservationDetailRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdetaildtos\changereservationdetailrequestdto.cs
+++GetInfoForCreateNewReservationDetailDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdetaildtos\getinfoforcreatenewreservationdetaildto.cs
+++GetReservationDetailResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdetaildtos\getreservationdetailresponsedto.cs
+++AdvancedGetReservationRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\advancedgetreservationrequestdto.cs
+++AdvancedGetReservationResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\advancedgetreservationresponsedto.cs
+++GetInfoForCreateNewReservationDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\getinfoforcreatenewreservationdto.cs
+++GetMyReservationListRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\getmyreservationlistrequestdto.cs
+++GetMyReservationListResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\getmyreservationlistresponsedto.cs
+++UpdateReservationContactDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\reservationdtos\updatereservationcontactdto.cs
+++AdvancedGetServiceRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\servicedtos\advancedgetservicerequestdto.cs
+++CreateServiceRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\servicedtos\createservicerequestdto.cs
+++GetFeaturedServiceListResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\servicedtos\getfeaturedservicelistresponsedto.cs
+++GetServiceListResponseDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\servicedtos\getservicelistresponsedto.cs
+++CreateSliderRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\sliderdtos\createsliderrequestdto.cs
+++UpdateSliderRequestDTO.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\dtos\sliderdtos\updatesliderrequestdto.cs
+++20220707145117_init.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\migrations\20220707145117_init.cs
+++ChildrenCareDBContextModelSnapshot.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\migrations\childrencaredbcontextmodelsnapshot.cs
+++ErrorViewModel.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\models\errorviewmodel.cs
+++MailTemplate.html
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\resources\mailtemplate.html
+++IAppParameterService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\iappparameterservice.cs
+++IAppRoleService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\iapproleservice.cs
+++IAppUserService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\iappuserservice.cs
+++IBlogService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\iblogservice.cs
+++ICategoryService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\icategoryservice.cs
+++IFeedBackService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\ifeedbackservice.cs
+++IPrescriptionService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\iprescriptionservice.cs
+++IReservationService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\ireservationservice.cs
+++IReservationServiceService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\ireservationserviceservice.cs
+++IServiceService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\iserviceservice.cs
+++ISliderService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\isliderservice.cs
+++IStaffSpecializationService.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\services\interface\istaffspecializationservice.cs
+++PagedList.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\pagination\pagedlist.cs
+++PaginationParams.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\utilities\pagination\paginationparams.cs
+++AdminDashboard.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\admin\admindashboard.cshtml
+++BlogDetail.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\blogdetail.cshtml
+++BlogList.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\bloglist.cshtml
+++BlogManagement.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\blogmanagement.cshtml
+++CreateBlog.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\createblog.cshtml
+++ManagerPostList.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\managerpostlist.cshtml
+++UpdateBlog.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\blog\updateblog.cshtml
+++Create.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\feedback\create.cshtml
+++Details.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\feedback\details.cshtml
+++Edit.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\feedback\edit.cshtml
+++Index.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\feedback\index.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\home\index.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\staffspecialization\index.cshtml
+++ChangePassword.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\home\changepassword.cshtml
+++Privacy.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\home\privacy.cshtml
+++Profile.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\home\profile.cshtml
+++_Layout.cshtml.css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\shared\_layout.cshtml.css
+++CreateSlider.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\slider\createslider.cshtml
+++DeleteSlider.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\slider\deleteslider.cshtml
+++SliderDetails.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\slider\sliderdetails.cshtml
+++SliderList.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\slider\sliderlist.cshtml
+++UpdateSlider.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\views\slider\updateslider.cshtml
+++appsettings.Development.json
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\appsettings.development.json
+++MessagePackAnalyzer
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\users\nthie\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\users\nthie\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\users\nthie\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\users\nthie\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.5\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\sdk\6.0.203\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.5\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\microsoft.netcore.app
+++CloudinaryDotNet (1.17.0)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1308
+++Dapper (2.0.123)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1302
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.5)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1303
+++Microsoft.AspNetCore.Identity.UI (6.0.5)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1307
+++Microsoft.Build (17.0.0)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1305
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.5)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1300
+++Microsoft.EntityFrameworkCore.Tools (6.0.5)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1304
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.7)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1306
+++Swashbuckle.AspNetCore (6.3.0)
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:>1301
+++serviceDependencies.local.json
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\properties\servicedependencies.local.json
+++admin.css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\css\admin.css
+++homepage.css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\css\homepage.css
+++manager.css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\css\manager.css
+++register.css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\css\register.css
+++reservation.css
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\css\reservation.css
+++avatar4.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\avatar4.png
+++background.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\background.png
+++doctor.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\doctor.png
+++hotblog.jpg
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\hotblog.jpg
+++medal.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\medal.png
+++slider.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\slider.png
+++surgery.jpg
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\surgery.jpg
+++user.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\user.png
+++wave.png
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\images\wave.png
+++main.js
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\js\main.js
+++site.js
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\wwwroot\js\site.js
+++20220707145117_init.Designer.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\migrations\20220707145117_init.designer.cs
+++Account
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\
+++ConfirmEmail.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\confirmemail.cshtml
+++ForgotPassword.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\forgotpassword.cshtml
+++Logout.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\logout.cshtml
+++ResendEmailConfirmation.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\resendemailconfirmation.cshtml
+++ResetPassword.cshtml
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\resetpassword.cshtml
+++ConfirmEmail.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\confirmemail.cshtml.cs
+++ForgotPassword.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\forgotpassword.cshtml.cs
+++Login.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\login.cshtml.cs
+++Logout.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\logout.cshtml.cs
+++Register.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\register.cshtml.cs
+++ResendEmailConfirmation.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\resendemailconfirmation.cshtml.cs
+++ResetPassword.cshtml.cs
+i:{987b4c9c-8a98-45b6-bf2b-ea9caa0e9532}:d:\semester 5\swp391\swp391_2022\childrencare\areas\identity\pages\account\resetpassword.cshtml.cs

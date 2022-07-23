@@ -1,0 +1,93 @@
+@model ChildrenCare.DTOs.ReservationDTOs.UpdateReservationContactDTO
+
+@{
+    Layout = "_Layout";
+}
+
+<div class="container">
+    <nav class="nav">
+        <a class="nav-link active" aria-current="page" asp-controller="Reservation" asp-action="ReservationDetail" asp-route-id="@ViewBag.ReservationId">Reservation Details</a>
+        <a class="nav-link" aria-current="page" asp-controller="Reservation" asp-action="ReservationContact" asp-route-id="@ViewBag.ReservationId">Contact</a>
+    </nav>
+
+    <h3>Contact Information</h3>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="contact-information-form">
+        <form asp-controller="Reservation" asp-action="ReservationContact" method="post">
+            <div class="row mb-2">
+                <div class="col-2">
+                    Name
+                </div>
+                <div class="col-8">
+                    <input asp-for="CustomerName" type="text" class="w-100" value="@Model.CustomerName">
+                </div>
+                <div>
+                    <span asp-validation-for="CustomerName" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-2">
+                    Gender
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(model => model.CustomerGender, Model.GenderList, htmlAttributes: new { @class = "form-control" })
+                </div>
+                <div>
+                    <span asp-validation-for="CustomerGender" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-2">
+                    Phone Number
+                </div>
+                <div class="col-8">
+                    <input asp-for="PhoneNumber" type="text" class="w-100" value="@Model.PhoneNumber">
+                </div>
+                <div>
+                    <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-2">
+                    Address
+                </div>
+                <div class="col-8">
+                    <input asp-for="Address" type="text" class="w-100" value="@Model.Address">
+                </div>
+                <div>
+                    <span asp-validation-for="Address" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-2">
+                    Note
+                </div>
+                <div class="col-8">
+                    <input asp-for="Notes" type="text" class="w-100" value="@Model.Notes">
+                </div>
+                <div>
+                    <span asp-validation-for="Notes" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="row mb-2">
+                <div class="col-2">
+                    Reserved Date
+                </div>
+                <div class="col-8">
+                    <input asp-for="PreservedDate" type="text"  value="@Model.PreservedDate" placeholder="dd/MM/yyyy">
+                    <span>At</span>
+                    <input type="number" asp-for="Hour" value="@Model.Hour" placeholder="hh"/><span>Hour</span><input type="number" asp-for="Minute" value="@Model.Minute" placeholder="mm"/><span>Minute</span>
+                </div>
+                <div>
+                    <span asp-validation-for="PreservedDate" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="submit d-flex justify-content-center">
+                <a class="btn btn-outline-primary" asp-controller="Reservation" asp-action="ReservationDetail" asp-route-id="@Model.Id">Back</a>
+                <button class="btn btn-danger" type="submit">Submit</button>
+                <!-- Chỗ này link tới Reservation Completion -->
+            </div>
+        </form>
+    </div>
+</div>
+@* Script để hiện datepicker*@

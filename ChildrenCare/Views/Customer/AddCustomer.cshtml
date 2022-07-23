@@ -1,0 +1,57 @@
+﻿@model ChildrenCare.DTOs.AppUserDTOs.RegisterRequestDTO
+
+@{
+    ViewData["Title"] = "Manager Add Customer";
+    Layout = "~/Views/Shared/_LayoutManager.cshtml";
+}
+
+
+<div class="container">
+    <h1>Add new Customer</h1>
+    <div>
+        <a asp-action="CustomerList">Back to List</a>
+    </div>
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <form asp-action="AddCustomer" asp-controller="Customer" method="post" class="inputform">
+
+        <input asp-for="FullName" type="text" class="sign-up-input" placeholder="Fullname" />
+        @*<div>
+            <span asp-validation-for="FullName" class="text-danger"></span>
+            </div>*@
+
+        <input asp-for="Email" type="email" class="sign-up-input" placeholder="Email" />
+
+        @*<div>
+            <span asp-validation-for="Email" class="text-danger"></span>
+            </div>*@
+
+        <!-- Phone Number input -->
+        <input asp-for="PhoneNumber" class="sign-up-input" placeholder="Phone number" />
+        @*<div>
+            <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>*@
+
+        <!-- Gender input -->
+        @Html.DropDownListFor(model=>model.Gender, Model.GenderList, htmlAttributes:new{@class="sign-up-input"})
+
+        <input asp-for="Password" type="password" class="sign-up-input" placeholder="Password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+
+        <input asp-for="ConfirmPassword" type="password" class="sign-up-input" placeholder="Confirm password" />
+        @*<div>
+            <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>*@
+
+        <!-- Submit button -->
+        <button type="submit" class="submit">CREATE</button>
+        @*<button type="submit" class="btn btn-primary btn-block mt-3">Register</button>*@
+    </form>
+</div>
+
+
+@section Scripts {
+    @{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
+}

@@ -1,0 +1,77 @@
+﻿@model ChildrenCare.Entities.Service
+
+@{
+    ViewData["Title"] = "CreateService";
+    Layout = "~/Views/Shared/_LayoutManager.cshtml";
+}
+
+<h1>CreateService</h1>
+
+<h4>Service</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateService">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BriefInfo" class="control-label"></label>
+                <input asp-for="BriefInfo" class="form-control" />
+                <span asp-validation-for="BriefInfo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SalePrice" class="control-label"></label>
+                <input asp-for="SalePrice" class="form-control" />
+                <span asp-validation-for="SalePrice" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <select class="form-select" asp-for="Status" aria-label="Select Status">
+                    <option value="3">Active</option>
+                    <option value="4">Inactive</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThumbnailUrl" class="control-label"></label>
+                <input asp-for="ThumbnailUrl" class="form-control" />
+                <span asp-validation-for="ThumbnailUrl" class="text-danger"></span>
+            </div>
+            <input asp-for="LastUpdated" value="@DateTime.Now" type="hidden">
+            <input asp-for="CreatedDate" value="@DateTime.Now" type="hidden" />
+
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="IsFeatured" /> @Html.DisplayNameFor(model => model.IsFeatured)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ServiceManagement">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    }
